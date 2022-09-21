@@ -1,6 +1,10 @@
 # Apple CDN
-DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,cdn-apple.com
+
+# App Store
+DOMAIN-SUFFIX,appstore.com
+HOST,apps.apple.com,AppStore
+HOST,itunes.apple.com,AppStore
 
 # Apple Music
 DOMAIN,aod-ssl.itunes.apple.com
